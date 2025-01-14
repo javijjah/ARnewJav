@@ -11,13 +11,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARTest.unity
     guid: 236ecb5dc263cbb48b7e8b6b90824899
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/ARMarker.unity
-    guid: b805fa77345a546408975b13d17d36a2
+    guid: 03c631b4016d3fe49a2f64314e96206f
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 8e99a75a06cf3c2438b5e61e6bb47f8b,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
       type: 2}
